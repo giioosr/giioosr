@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @giioosr (Giovanni)
-- 👀 I’m interested in learning coding and grow up faster.
+- 👀 I’m interested in learning programming and grow up faster.
 - 🌱 I’m currently learning with Github.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me giovannigabrielsandoval@paucasesnovescifp.cat
